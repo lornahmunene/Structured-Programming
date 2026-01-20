@@ -7,7 +7,7 @@ int main(){
     int i;
 
     for(i=0;i<n;i++){
-        printf("Enter elements %d:",i+1);
+        printf("Enter elements %d:",i);
         scanf("%d",&arr[i]);
     };
     printf("Elements in reverse:");
