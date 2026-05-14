@@ -1,0 +1,14 @@
+Do assignment on getmarks for class
+create objects using three methods:
+Protected,
+Public,
+Private.
+class Base
+Mini projects stuff
+Entitiies
+Abstraction
+Encapsulation
+Inheritance
+Polymorphism
+
+remember documentation 

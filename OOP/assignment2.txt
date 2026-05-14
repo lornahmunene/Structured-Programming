@@ -1,0 +1,10 @@
+console application for to do list
+create task 
+delete task
+undo  delete task
+show task
+Search task
+entities - Task-id,name priority,date 
+          Task manager -CRUD operations
+Save tasks in a vector 
+Implement linear and binary search 
